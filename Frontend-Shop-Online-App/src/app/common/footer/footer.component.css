@@ -1,0 +1,14 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns with equal width */
+  grid-gap: 10px; /* spacing between items */
+  background: lightgray;
+  padding: 25px 200px;
+}
+
+.grid-item {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+}
