@@ -1,4 +1,4 @@
-# Proiect Final - JavaRemoteRo78 - Angular & Java
+# Proiect Angular & Java
 
 Acest repository conține două proiecte separate: o aplicație backend dezvoltată în Java SpringBoot și o aplicație frontend dezvoltată în Angular. Vă rugăm să urmați instrucțiunile de mai jos pentru a configura și rula fiecare proiect în ordinea specificată.
 
