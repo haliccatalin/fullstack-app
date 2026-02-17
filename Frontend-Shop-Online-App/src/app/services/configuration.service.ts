@@ -11,7 +11,7 @@ export class ConfigurationService {
   public footerConfig() {
     return {
       author: 'User Name',
-      group: 'JavaRemoteRo78',
+      group: 'UVT Proiect Colectiv',
       projectTitle: 'Online Shop'
     }
   }
